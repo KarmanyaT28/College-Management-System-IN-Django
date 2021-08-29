@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/61420434/131244326-3cde3400-d22c-4925-af77-a2c7e1a8f438.mp4
+
 # College-ERP
 A college management system built using Django framework. It is designed for interactions between students and teachers. Features include attendance, marks and time table.
 
@@ -42,11 +46,7 @@ New students and teachers can be added through the admin page. A new user needs 
 
 The admin page is used to modify all tables such as Students, Teachers, Departments, Courses, Classes etc.
 
-**For more details regarding the system and features please refer the reports included.**
 
-##CONTACT :
 
-website - https://projectworlds.in/python-projects-with-source-code/pytho-django-college-management-system/
+https://user-images.githubusercontent.com/61420434/131244337-846bd795-645e-45c2-8c7e-5eba2785b443.mp4
 
-WHATSAPP - +916263056779
-MAIL - official@projectworlds.in / projectworldsofficial@gmail.com
